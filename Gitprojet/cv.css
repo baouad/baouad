@@ -1,0 +1,85 @@
+
+body{
+    height: 942px;
+    width: 695px;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1{
+    text-align: center;
+    color: rgb(85, 129, 115);
+}
+
+}
+header{
+    position: relative;
+    left: 600px;
+}
+
+.gmail{
+    color: blue;
+}
+h2{
+    color: rgb(85, 129, 115);
+    text-align: center;
+   
+}
+#mini_info{
+    text-align: center;
+}
+#Compétences_Profeessionelles{
+    text-align: left;
+}
+
+#Experience_professionnelle{
+    
+}
+
+.dates{
+    float: right;
+    position: relative;
+    right: 100px;
+    bottom: 70px;
+}
+#compprof2{
+    position: absolute;
+    left: 350px;
+    position: relative;
+    top: -105px;
+    align-items: center
+}
+#compprof1{
+    line-height: -10px;
+    position: relative
+}
+.annee1{
+position: relative;
+bottom: 30px;
+}
+.annee2{
+position: relative;
+bottom:0px
+}
+.annee3{
+position: relative;
+bottom: 0px;
+}
+.annee4{
+    position: relative;
+}
+.ligne { 
+    display: block; 
+    margin-top: 0.5em; 
+    margin-bottom: 0.5em; 
+    margin-left: 20px; 
+    margin-right: 20px; 
+    overflow: hidden; 
+    border-style: inset; 
+    border-width: 5px;
+}
+#contact_info{
+text-align: center;    
+}
+.Tamoil,.LV,.newcafé,.CA{
+    color: rgb(85, 129, 115);
+}
