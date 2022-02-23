@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bach
-- 👀 I’m interested in video games, looking forward to be playing Total War: Warhammer 3
+- 👀 I’m interested in getting better a dev
 - 🌱 I’m currently learning to be a web dev
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me contact info
