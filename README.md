@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Bach
-- 👀 I’m interested in getting better at developing
-- 🌱 I’m currently learning to be a web dev
+- 👋 Hi, I’m Bachir Aouad
+- 👀 I’m interested in technology and video games
+- 🌱 I’m currently learning to be a web developer using Vue.js
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me contact info
 
